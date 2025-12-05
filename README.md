@@ -66,4 +66,4 @@ support@example.com
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Authors
-- [@AdrianTomin](https://www.github.com/AdrianTomin)
+- [@pumbadev0219](https://www.github.com/pumbadev0219)
